@@ -16,4 +16,5 @@ public class MyHeader extends VBox{
                 throw new RuntimeException(exception);
         }
     }
+
 }
